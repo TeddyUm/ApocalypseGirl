@@ -9,3 +9,5 @@ Art - Ivy<br>
 - Status raising<br>
 - Save, Load system<br>
 - 3D dungeon battle<br>
+
+<a href="https://youtu.be/1kAjT269UP4">Youtube Link(Korean)</a>
