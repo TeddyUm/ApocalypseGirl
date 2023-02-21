@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Inventory>
+	<Field food="3" health="0" stress="0" use="true" icon="itemFood" name="케이크" id="1"
+         description="맛있어 보이는 케이크다."/>
+	<Field food="0" health="30" stress="-10" use="true" icon="itemHeal" name="응급키트" id="2"
+         description="응급처치를 할 수 있는 구급상자"/>
+	<Field food="0" health="0" stress="0" use="false" icon="itemDress" name="드레스" id="3"
+         description="검고 예쁜 드레스다. 입을수는 없다."/>
+  <Field food="0" health="0" stress="0" use="false" icon="itemEnding" name="네크로노미콘" id="4"
+         description="기분나쁜 책이다. 내용을 읽을 수 없다."/>
+  <Field food="0" health="-5" stress="-30" use="true" icon="itemDrug" name="하얀가루" id="5"
+       description="먹으면 왠지 기분이 좋아지는거 같다."/>
+</Inventory>
